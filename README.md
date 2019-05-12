@@ -1,11 +1,12 @@
-# Timestamping log for `gitta.enotar.ch`
+# Timestamping log for `gitta.zeitgitter.net`
 
 This lists all commit IDs for which
-[`gitta.enotar.ch`](https://gitta.enotar.ch) has ever issued a timestamp
+[`gitta.zeitgitter.net`](https://gitta.zeitgitter.net) (previously known as
+`gitta.enotar.ch`) has ever issued a timestamp
 signature. If there are any other signatures, please do consider them invalid.
 
-This is part of the `igitt` distributed timestamping system. Please learn more
-about `igitt` at https://igitt.ch .
+This is part of the *Zeitgitter* distributed timestamping system. Please learn more
+about *Zeitgitter* at https://zeitgitter.net .
 
 # Verify timestamping log
 
